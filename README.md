@@ -2,6 +2,7 @@
 
 This Java project simulates an **Information Management System** for the newly founded **HRS Court** in Haifa.  
 The system allows managing court cases, staff, clients, and hearings efficiently through an intuitive **GUI** and implements core **Object-Oriented Programming (OOP)** principles.
+Presentation: https://drive.google.com/file/d/1Kf1fIYbYeV00gNVGY9thH0dXAdl9k5js/view?usp=share_link
 
 ## 📋 Project Overview
 - **Court Management**: Create, update, and delete court cases, clients, employees, and departments.
